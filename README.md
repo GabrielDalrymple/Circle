@@ -1,5 +1,5 @@
 # Circle
- CSS 340 Program 1: Intro Class Design
+ CSS 340 Assignment 1: Intro Class Design
  
      Purpose:
          This programming assignment will introduce the Python language to the student. A simple class
