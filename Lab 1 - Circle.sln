@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab 1 - Circle", "Lab 1 - Circle\Lab 1 - Circle.pyproj", "{638B9542-3142-49CC-AD33-67A4E33ED8AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638B9542-3142-49CC-AD33-67A4E33ED8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638B9542-3142-49CC-AD33-67A4E33ED8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB0F9D1-FC1A-47FB-8EEE-DEF38CC0D25E}
+	EndGlobalSection
+EndGlobal
